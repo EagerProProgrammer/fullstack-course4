@@ -9,6 +9,7 @@
 
 // DO NOT attach the speakWord variable to the 'helloSpeaker' object.
 (function (){
+ var helloSpeaker = [speak];
 var speakWord = "Hello";
 
 // STEP 4: Rewrite the 'speak' function such that it is attached to the
